@@ -28,5 +28,5 @@ for j in range(40):
         # Wait 1 second before executing again
         time.sleep(1)
 
-    # Wait 1 second before executing again
+    # Wait 5 seconds before executing again
     time.sleep(5)
