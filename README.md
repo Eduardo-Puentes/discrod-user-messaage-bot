@@ -1,4 +1,4 @@
-# Discrod User Messaage Bot
+# Discrod User Message Bot
 
 This is a demostration on how to post messages in discord via request with Python.
 
