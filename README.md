@@ -1,6 +1,6 @@
 # Discrod User Messaage Bot
 
-This is a demostration on how to post messages in discord via request.
+This is a demostration on how to post messages in discord via request with Python.
 
 ## Definitions
 
